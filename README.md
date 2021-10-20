@@ -1,3 +1,1 @@
-Hello, this is a README example.
-
-Need to edit.
+ I am editing the README file. Adding some more details about the project description.
